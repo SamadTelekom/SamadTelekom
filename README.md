@@ -22,10 +22,8 @@ I'm a **Software Engineering Student** with a passion for **Network Engineering*
 - Building APIs using **Go** and deploying with **Kubernetes**
 
 ## 📫 How to reach me ...
-- **Email**: samad.telekom@example.com
-- **LinkedIn**: [linkedin.com/in/samadtelekom](https://linkedin.com/in/samadtelekom)
+- **Email**: abdessamad.azouagh@telekom.de
 
-## 😄 Pronouns: He/Him
 
 ## ⚡ Fun fact:
 I love combining the best of both worlds: **networking** and **software engineering** to solve complex problems!
